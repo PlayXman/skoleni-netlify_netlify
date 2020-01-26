@@ -1,4 +1,4 @@
-**Git:** https://github.com/PlayXman/skoleni-netlify_netlify
+**Git:** https://github.com/PlayXman/tutorial-netlify_netlify
 
 **Netlify:** https://app.netlify.com/sites/flamboyant-wiles-8e0fe7/overview
 
